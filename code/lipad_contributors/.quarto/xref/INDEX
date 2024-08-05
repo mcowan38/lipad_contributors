@@ -10,5 +10,20 @@
   },
   "contributers.qmd": {
     "contributers.html": "fd83da82"
+  },
+  "contact.qmd": {
+    "contact.html": "7109ad1b"
+  },
+  "contributors.qmd": {
+    "contributors.html": "aa78b744"
+  },
+  "contributors/contributor1.qmd": {
+    "contributor1.html": "7e0d89a8"
+  },
+  "contributors/contributor2.qmd": {
+    "contributor2.html": "7c346ecd"
+  },
+  "contributors/contributor3.qmd": {
+    "contributor3.html": "8adc39f6"
   }
 }

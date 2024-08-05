@@ -1,0 +1,27 @@
+---
+title: "LiPaD Contributors"
+about:
+  template: solana
+  image: images/logo.png
+  links:
+    - icon: file
+      text: LiPaD
+      href: https://lipad.ca
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+The LiPaD project is an ongoing effort to compile and enhance data from the Canadian Parliamentary Debates (Hansard). Our team of political scientists, computer scientists, and historians at the University of Toronto continues to expand this machine-readable and fully searchable historical record. 
+
+We are continuously integrating new features, including the Debates of the Senate and transcripts of parliamentary committees. Additionally, we are adding more biographical details of parliamentarians, such as demographic profiles and election outcomes in their constituencies.
+
+To request data or for information about how to get involved in this project, please contact us.
+
+## Team Profiles
+
+[Dr. Christopher Cochrane](contributors/contributor1.qmd)
+
+[Contributor 2](contributors/contributor2.qmd)
+
+[Contributor 3](contributors/contributor3.qmd)
+---

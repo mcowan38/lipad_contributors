@@ -1,16 +1,107 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Proper Website",
+    "objectID": "contributors.html",
+    "href": "contributors.html",
+    "title": "LiPaD Contributors",
     "section": "",
-    "text": "quarto publish\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "The LiPaD project is an ongoing effort to compile and enhance data from the Canadian Parliamentary Debates (Hansard). Our team of political scientists, computer scientists, and historians at the University of Toronto continues to expand this machine-readable and fully searchable historical record.\nWe are continuously integrating new features, including the Debates of the Senate and transcripts of parliamentary committees. Additionally, we are adding more biographical details of parliamentarians, such as demographic profiles and election outcomes in their constituencies.\nTo request data or for information about how to get involved in this project, please contact us."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "contributors.html#ongoing-progress",
+    "href": "contributors.html#ongoing-progress",
+    "title": "LiPaD Contributors",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "The LiPaD project is an ongoing effort to compile and enhance data from the Canadian Parliamentary Debates (Hansard). Our team of political scientists, computer scientists, and historians at the University of Toronto continues to expand this machine-readable and fully searchable historical record.\nWe are continuously integrating new features, including the Debates of the Senate and transcripts of parliamentary committees. Additionally, we are adding more biographical details of parliamentarians, such as demographic profiles and election outcomes in their constituencies.\nTo request data or for information about how to get involved in this project, please contact us."
+  },
+  {
+    "objectID": "contributors.html#contributors",
+    "href": "contributors.html#contributors",
+    "title": "LiPaD Contributors",
+    "section": "Contributors",
+    "text": "Contributors\n\nContributor 1\nContributor 2\nContributor 3"
+  },
+  {
+    "objectID": "contributors.html#team-profiles",
+    "href": "contributors.html#team-profiles",
+    "title": "LiPaD Contributors",
+    "section": "Team Profiles",
+    "text": "Team Profiles\nDr. Christopher Cochrane\nContributor 2\nContributor 3"
+  },
+  {
+    "objectID": "contributors/contributor1.html",
+    "href": "contributors/contributor1.html",
+    "title": "Christopher Cochrane",
+    "section": "",
+    "text": "Christopher Cochrane is an Associate Professor at UTSC.\nHe is interested in Canadian politics, ideology, political disagreement, computational social science, NLP, and linked parliamentary data (www.lipad.ca).\nHis publications include Canadian Politics: Critical Approaches (Nelson, forthcoming 2019); Left and Right: The Small World of Political Ideas (MQUP, 2015)"
+  },
+  {
+    "objectID": "contributors/contributor1.html#research-interests",
+    "href": "contributors/contributor1.html#research-interests",
+    "title": "Christopher Cochrane",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nCanadian politics, ideology, political disagreement, computational social science, NLP, and linked parliamentary data (www.lipad.ca)."
+  },
+  {
+    "objectID": "contributors/contributor1.html#awards-and-grants",
+    "href": "contributors/contributor1.html#awards-and-grants",
+    "title": "Christopher Cochrane",
+    "section": "Awards and Grants",
+    "text": "Awards and Grants\n\nStandard Research Grant (New Researcher Award), Social Sciences and Humanities Research Council, 2011-2013.\nEarly Researcher Award, Connaught Fellowship, 2011-2013.\nPostdoctoral Fellowship, Laurier Institute for the Study of Public Opinion and Policy, 2009-2010."
+  },
+  {
+    "objectID": "contributors/contributor1.html#publications",
+    "href": "contributors/contributor1.html#publications",
+    "title": "Christopher Cochrane",
+    "section": "Publications",
+    "text": "Publications\n\n\nCanadian Politics: Critical Approaches. 7th ed. Toronto, ON: Nelson. Forthcoming. (w/ Rand Dyck).\n\n\n“Scapegoating: Unemployment, Far-Right Parties, and Anti-Immigrant Sentiment.” Comparative European Politics. Forthcoming. (w/ Neil Nevitte)\n\n\n“The Origin and Structure of Left/Right Opinions,” in James Farney and David Rayside (eds.) Conservatism in Canada. Toronto, ON: University of Toronto Press. Forthcoming.\n\n\n“Regions, Regionalism, and Regional Differences in Canada.” Canadian Journal of Political Science. Forthcoming. (w/ Andrea Perella).\n\n\n“The Asymmetrical Structure of Left/Right Disagreement: Left-Wing Coherence and Right-wing Fragmentation in Comparative Party Policy.” Party Politics. Forthcoming.\n\n\n“Left/Right Ideology and Canadian Politics.” Canadian Journal of Political Science 43(3): 583-605."
+  },
+  {
+    "objectID": "contributors/contributor2.html",
+    "href": "contributors/contributor2.html",
+    "title": "Contributor 2",
+    "section": "",
+    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
+  },
+  {
+    "objectID": "contributors/contributor2.html#education",
+    "href": "contributors/contributor2.html#education",
+    "title": "Contributor 2",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "contributors/contributor2.html#experience",
+    "href": "contributors/contributor2.html#experience",
+    "title": "Contributor 2",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "contributors/contributor3.html",
+    "href": "contributors/contributor3.html",
+    "title": "Contributor 3",
+    "section": "",
+    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
+  },
+  {
+    "objectID": "contributors/contributor3.html#education",
+    "href": "contributors/contributor3.html#education",
+    "title": "Contributor 3",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
+  },
+  {
+    "objectID": "contributors/contributor3.html#experience",
+    "href": "contributors/contributor3.html#experience",
+    "title": "Contributor 3",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+  },
+  {
+    "objectID": "contributors/contributor1.html#bio",
+    "href": "contributors/contributor1.html#bio",
+    "title": "Christopher Cochrane",
+    "section": "",
+    "text": "Christopher Cochrane is an Associate Professor at UTSC.\nHe is interested in Canadian politics, ideology, political disagreement, computational social science, NLP, and linked parliamentary data (www.lipad.ca).\nHis publications include Canadian Politics: Critical Approaches (Nelson, forthcoming 2019); Left and Right: The Small World of Political Ideas (MQUP, 2015)"
   }
 ]

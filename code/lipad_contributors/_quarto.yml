@@ -1,24 +1,26 @@
-project:
+project: 
   type: website
 
 website:
-  title: "Proper Website"
+  title: "LiPaD"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
+      - href: contributors.qmd
+        text: Contributors
+      - href: https://lipad.ca/#about
         text: About
-      - href: blog.qmd
+      - href: https://www.lipad.ca/blog/
         text: Blog
-      - href: contributers.qmd
-        text: Contributers
+      - href: https://lipad.ca/contact/
+        text: Contact
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
 
 editor: visual
 
+site-url: .
+home: contributors.qmd
