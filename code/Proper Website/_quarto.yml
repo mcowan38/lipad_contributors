@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Proper Website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: blog.qmd
+        text: Blog
+      - href: contributers.qmd
+        text: Contributers
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
